@@ -24,4 +24,5 @@ Prior to training the model, the dataset underwent thorough feature engineering.
 A Random Forest classifier was employed for its ability to handle multi-class classification problems effectively. The classifier was trained using k-fold cross-validation to enhance model robustness and prevent overfitting.
 
 **Results**
+
 After training the Random Forest classifier with cross-validation, the model achieved an impressive accuracy of 93%. Evaluation metrics, including precision, recall, and F1-score, for each class are available in the project's notebook.
