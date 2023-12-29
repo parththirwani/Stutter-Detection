@@ -3,6 +3,7 @@
 **Stutter Classification using Random Forest**
 
 **Overview**
+
 This repository contains code for a machine learning project focused on classifying different types of speech repetitions: prolongation, blocking, and normal speech. The project utilizes a Random Forest classifier trained on a curated dataset to accurately classify these speech patterns.
 
 **Dataset**
